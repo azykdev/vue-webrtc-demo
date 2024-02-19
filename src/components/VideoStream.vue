@@ -32,7 +32,7 @@
       </div>
       <div class="row">
           <div class="col-md-12">
-              <h2>Captured Image</h2>
+              <h2>Olingan rasm</h2>
               <figure class="figure">
                   <img :src="img" class="img-responsive" />
               </figure>
